@@ -1,0 +1,10 @@
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\bin\Debug\rique_moica.exe.config
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\bin\Debug\rique_moica.exe
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\bin\Debug\rique_moica.pdb
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.csproj.AssemblyReference.cache
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.Form1.resources
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.Properties.Resources.resources
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.csproj.GenerateResource.cache
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.csproj.CoreCompileInputs.cache
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.exe
+C:\Users\LAB TECH 14\Documents\clara\rique_moica\obj\Debug\rique_moica.pdb

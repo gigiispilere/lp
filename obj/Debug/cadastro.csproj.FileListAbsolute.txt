@@ -1,0 +1,4 @@
+C:\Users\Aluno\Downloads\CM\obj\Debug\cadastro.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\CM\obj\Debug\rique_moica.txtnada.resources
+C:\Users\Aluno\Downloads\CM\obj\Debug\cadastro.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\CM\obj\Debug\rique_moica.pdb
